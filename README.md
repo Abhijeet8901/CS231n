@@ -3,6 +3,8 @@
 
 This repository contains my solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/) course offered by Stanford University (Spring 2020).
 
+Find course notes and assignments [here](http://cs231n.github.io) and be sure to check out the video lectures [here](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+
 ### Assignment 1:
 - [Q1](https://github.com/Abhijeet8901/CS231n/blob/main/assignment1/knn.ipynb): k-Nearest Neighbor classifier. (_Done_)
 - [Q2](https://github.com/Abhijeet8901/CS231n/blob/main/assignment1/svm.ipynb): Training a Support Vector Machine. (_Done_)
